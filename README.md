@@ -115,8 +115,7 @@ Based on the analysis, the following recommendations were identified:
 # 🛠 Tools & Technologies
 
 * SQL
-* Google BigQuery / PostgreSQL
-* VS Code
+* PostgreSQL
 * Git & GitHub
 
 ---
